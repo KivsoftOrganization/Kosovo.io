@@ -7,7 +7,7 @@
 // @grant        none
 // @run-at       document-start
 // @icon         https://play.nintendo.com/images/Masthead_Kirby.17345b1513ac044897cfc243542899dce541e8dc.9afde10b.png
-// @require      http://127.0.0.1:5500/sdfsdf.js
+// @require      https://raw.githubusercontent.com/KivsoftOrganization/Kosovo.io/main/main.js
 // ==/UserScript==
 
 /*
